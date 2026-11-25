@@ -1,0 +1,13 @@
+# Entornos y dependencias
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# Variables de entorno (se versionan solo los .env.example)
+.env
+
+# Build y bases locales
+dist/
+*.db
