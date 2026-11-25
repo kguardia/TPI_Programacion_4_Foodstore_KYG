@@ -6,7 +6,7 @@ productos, stock, pedidos y usuarios desde un panel.
 
 - **Alumna:** Karen Yanet Guardia — UTN, Tecnicatura Universitaria en Programación
 - **Repositorio:** `https://github.com/kguardia/TPI_Programacion_4_Foodstore_KYG`
-- **Video de demostración:** `PEGAR_ACA_EL_LINK_PUBLICO_DEL_VIDEO`
+- **Video de demostración:** `https://youtu.be/fWkNnQb2r7g`
 
 ## Estructura
 
