@@ -5,7 +5,7 @@ catálogo, arman un carrito y confirman pedidos; el administrador gestiona categ
 productos, stock, pedidos y usuarios desde un panel.
 
 - **Alumna:** Karen Yanet Guardia — UTN, Tecnicatura Universitaria en Programación
-- **Repositorio:** `PEGAR_ACA_LA_URL_DEL_REPOSITORIO_PUBLICO_DE_GITHUB`
+- **Repositorio:** `https://github.com/kguardia/TPI_Programacion_4_Foodstore_KYG`
 - **Video de demostración:** `PEGAR_ACA_EL_LINK_PUBLICO_DEL_VIDEO`
 
 ## Estructura
